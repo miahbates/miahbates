@@ -5,9 +5,9 @@
       
 ![Image of Me](https://user-images.githubusercontent.com/78933903/135323121-90481b11-e7bb-40c4-8d44-fe0fb54591bd.jpg)
 
+## About Me
 I made the move from Wolverhampton to London six years ago to become a nurse in the big city! For the past three years I’ve have had the honour of caring for patients with complex oncology conditions throughout their cancer journey.
 
-## About Me
 Although I love my job and the patients I never planned this career path as I always dreamed of being a fashion designer when I was younger. My constant desire to make and learn new things has always been pursued in my own time through painting, colouring, drawing (anything which makes mess really). When I’m not covered in paint I’m usually getting around London the best way I know how... on wheels - whether a bike or a pair of rollor-skates! I’ve recently got a new companion ‘Gus' who has not quite got to grips with my modes of transport yet.
 
 ## Why Coding?
