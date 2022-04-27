@@ -7,7 +7,7 @@
 ## Welcome to my page!
 
 * I previously worked as an oncology nurse in the NHS.:blue_heart::rainbow:
-* Completed *[Founders and Coders](https://www.foundersandcoders.com/)* full-stack coding bootcamp, and currently undertaking an software development apprenticeship. :seedling:
+* Completed *[Founders and Coders](https://www.foundersandcoders.com/)* intensive full-stack coding bootcamp, and currently undertaking an software development apprenticeship. :seedling:
 * Check out my repositories for my latest and past projects. :star:
 * Look up *[my profile](https://www.linkedin.com/in/miahbates)* on linked in. :dizzy:
 
