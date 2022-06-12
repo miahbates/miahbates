@@ -2,7 +2,7 @@
 # Hi there, I'm Miah :wave:
 ## I'm an apprentice software developer. :sparkles:
 
-![](.gif)![miah-coding-gif](https://user-images.githubusercontent.com/78933903/135720448-d4a9f456-d9d8-432f-905c-964686dc8f55.gif)
+![miah-coding-gif](https://user-images.githubusercontent.com/78933903/135720448-d4a9f456-d9d8-432f-905c-964686dc8f55.gif)
 
 ## Welcome to my page!
 
