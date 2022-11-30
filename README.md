@@ -8,7 +8,7 @@
 
 * I previously worked as an oncology nurse in the NHS. :blue_heart:
 * Completed *[Founders and Coders](https://www.foundersandcoders.com/)* full-stack coding bootcamp. 🏋️‍♀️
-* Currently undertaking a software developmer position at [Pebble](https://www.bookpebble.co.uk/). We aim to create a platform which provides more flexible, convenient and efficient childcare ecosystem for everyone. :seedling:
+* Currently undertaking a software developmer position at [Pebble](https://www.bookpebble.co.uk/). We aim to create a platform which provides more flexible, convenient and efficient childcare ecosystem for everyone. :seedling: 🚸
 * Check out my repositories for my latest and past projects. :star:
 * Look up *[my profile](https://www.linkedin.com/in/miahbates)* on linked in. :dizzy:
 
