@@ -4,9 +4,8 @@
 
 ![miah-coding-gif](https://user-images.githubusercontent.com/78933903/135720448-d4a9f456-d9d8-432f-905c-964686dc8f55.gif)
 
-Former Oncology Nurse turned Software Engineer, passionate about building technology that genuinely helps people. I’m currently working at Pebble, creating tools that make childcare and children’s activities more accessible for families.
+Former Nurse turned Software Engineer, passionate about building technology that genuinely helps people. I’m currently working at Pebble, creating tools that make childcare and children’s activities more accessible for families.
 
-🌱 A bit about me
 * 🩺 Previously an Oncology Nurse in the NHS
 * 💻 Graduate of the Founders and Coders
  full-stack bootcamp
