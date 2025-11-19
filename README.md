@@ -12,7 +12,7 @@ Former Nurse turned Software Engineer, passionate about building technology that
 * 📘 Completed a Level 4 Software Developer Apprenticeship
 * 👩‍💻 Full-stack engineer with a strong frontend focus (JavaScript, TypeScript, React, Next.js, GraphQL)
 * 🧪 Enjoy writing clean, tested code (RTL, Jest, Cypress)
-* 🐍 Recently exploring backend development with Python, Django and AI-assisted learning
+* 🐍 Over the past year, I’ve grown my backend skills through hands-on work with Python, Django and AI-powered learning.
 * 🌍 Motivated by tech that creates real social impact
 * 🔗 Connect with *[me](https://www.linkedin.com/in/miahbates)* on LinkedIn
 
